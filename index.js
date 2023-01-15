@@ -8,17 +8,57 @@ const slides = [
     {
         image:"https://www.w3schools.com/bootstrap/chicago.jpg",
         title: "accusamus beatae ad facilis cum similique qui sunt",
+        subTitle: "one"
         subTitle: "first sub"
       },
       {
         image:"https://www.w3schools.com/bootstrap/ny.jpg",
         title: "reprehenderit est deserunt velit ipsam",
-        subTitle: "second sub"
+        subTitle: "two"
+        subTitle: "second sub"    
+      },
+      {
+        image:"https://www.w3schools.com/bootstrap/la.jpg",
+        title: "officia porro iure quia iusto qui ipsa ut modi",
+        subTitle: "three"
+      },
+      {
+        image:"https://www.w3schools.com/bootstrap/chicago.jpg",
+        title: "accusamus beatae ad facilis cum similique qui sunt",
+        subTitle: "four"
+      },
+      {
+        image:"https://www.w3schools.com/bootstrap/ny.jpg",
+        title: "reprehenderit est deserunt velit ipsam",
+        subTitle: "five"
     
       },
       {
         image:"https://www.w3schools.com/bootstrap/la.jpg",
         title: "officia porro iure quia iusto qui ipsa ut modi",
+        subTitle: "six"
+      },
+      {
+        image:"https://www.w3schools.com/bootstrap/chicago.jpg",
+        title: "accusamus beatae ad facilis cum similique qui sunt",
+        subTitle: "seven"
+      },
+      {
+        image:"https://www.w3schools.com/bootstrap/ny.jpg",
+        title: "reprehenderit est deserunt velit ipsam",
+        subTitle: "eight"
+    
+      },
+      {
+        image:"https://www.w3schools.com/bootstrap/la.jpg",
+        title: "officia porro iure quia iusto qui ipsa ut modi",
+        subTitle: "nine"
+      }
+      ,
+      {
+        image:"https://www.w3schools.com/bootstrap/la.jpg",
+        title: "officia porro iure quia iusto qui ipsa ut modi",
+        subTitle: "ten"
         subTitle: "third sub"
       }
     ]
