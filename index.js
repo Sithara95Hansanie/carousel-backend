@@ -9,12 +9,13 @@ const slides = [
         image:"https://www.w3schools.com/bootstrap/chicago.jpg",
         title: "accusamus beatae ad facilis cum similique qui sunt",
         subTitle: "one"
+        subTitle: "first sub"
       },
       {
         image:"https://www.w3schools.com/bootstrap/ny.jpg",
         title: "reprehenderit est deserunt velit ipsam",
         subTitle: "two"
-    
+        subTitle: "second sub"    
       },
       {
         image:"https://www.w3schools.com/bootstrap/la.jpg",
@@ -58,6 +59,7 @@ const slides = [
         image:"https://www.w3schools.com/bootstrap/la.jpg",
         title: "officia porro iure quia iusto qui ipsa ut modi",
         subTitle: "ten"
+        subTitle: "third sub"
       }
     ]
 app.use(function(req, res, next) {
